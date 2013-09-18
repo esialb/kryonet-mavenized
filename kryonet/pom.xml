@@ -92,7 +92,6 @@
 								</goals>
 								<configuration>
 									<createDependencyReducedPom>true</createDependencyReducedPom>
-									<promoteTransitiveDependencies>true</promoteTransitiveDependencies>
 									<shadedArtifactAttached>false</shadedArtifactAttached>
 									<useBaseVersion>true</useBaseVersion>
 									<createSourcesJar>true</createSourcesJar>
